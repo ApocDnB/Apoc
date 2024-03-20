@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apoc
 - 👀 I’m interested in Music and compootery things
-- 🌱 Studies Cyber Security at Coventry University and currently working as a SysAdmin for the NHS
+- 🌱 Studied Cyber Security at Coventry University and currently working as a SysAdmin for the NHS
 - 📫 Reach me @ ApocDnB on Discord
 
 <!---
